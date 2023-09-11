@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\bin\Debug\net6.0\Week3Lecture.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\bin\Debug\net6.0\Week3Lecture.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\bin\Debug\net6.0\Week3Lecture.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\bin\Debug\net6.0\Week3Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\bin\Debug\net6.0\Week3Lecture.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\refint\Week3Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\Week3Lecture.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Lecture\Week3Lecture\obj\Debug\net6.0\ref\Week3Lecture.dll

@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\bin\Debug\net6.0\Week3Project.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\bin\Debug\net6.0\Week3Project.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\bin\Debug\net6.0\Week3Project.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\bin\Debug\net6.0\Week3Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\bin\Debug\net6.0\Week3Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\refint\Week3Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\Week3Project.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\Week3Project\Week3Project\obj\Debug\net6.0\ref\Week3Project.dll

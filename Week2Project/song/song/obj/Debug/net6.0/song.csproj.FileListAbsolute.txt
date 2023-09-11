@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\bin\Debug\net6.0\song.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\bin\Debug\net6.0\song.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\bin\Debug\net6.0\song.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\bin\Debug\net6.0\song.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\bin\Debug\net6.0\song.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\refint\song.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\song.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\Week2Project\song\song\obj\Debug\net6.0\ref\song.dll
