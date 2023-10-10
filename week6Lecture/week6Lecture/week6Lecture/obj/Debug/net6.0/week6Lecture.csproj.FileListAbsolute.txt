@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\bin\Debug\net6.0\week6Lecture.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\bin\Debug\net6.0\week6Lecture.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\bin\Debug\net6.0\week6Lecture.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\bin\Debug\net6.0\week6Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\bin\Debug\net6.0\week6Lecture.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\refint\week6Lecture.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\week6Lecture.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6Lecture\week6Lecture\week6Lecture\obj\Debug\net6.0\ref\week6Lecture.dll

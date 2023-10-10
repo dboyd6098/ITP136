@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\bin\Debug\net6.0\week6And7Project.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\bin\Debug\net6.0\week6And7Project.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\bin\Debug\net6.0\week6And7Project.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\bin\Debug\net6.0\week6And7Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\bin\Debug\net6.0\week6And7Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\refint\week6And7Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\week6And7Project.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week6And7Project\week6And7Project\week6And7Project\obj\Debug\net6.0\ref\week6And7Project.dll
