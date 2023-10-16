@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\bin\Debug\net6.0\week8Project.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\bin\Debug\net6.0\week8Project.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\bin\Debug\net6.0\week8Project.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\bin\Debug\net6.0\week8Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\bin\Debug\net6.0\week8Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\refint\week8Project.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\week8Project.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Project\week8Project\obj\Debug\net6.0\ref\week8Project.dll

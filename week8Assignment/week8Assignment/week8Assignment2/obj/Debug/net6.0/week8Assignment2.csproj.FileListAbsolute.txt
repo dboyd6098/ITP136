@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\bin\Debug\net6.0\week8Assignment2.exe
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\bin\Debug\net6.0\week8Assignment2.deps.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\bin\Debug\net6.0\week8Assignment2.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\bin\Debug\net6.0\week8Assignment2.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\bin\Debug\net6.0\week8Assignment2.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\refint\week8Assignment2.dll
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.pdb
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\week8Assignment2.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\FALL23\C#ITP136\Repos\week8Assignment\week8Assignment\week8Assignment2\obj\Debug\net6.0\ref\week8Assignment2.dll
