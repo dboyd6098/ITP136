@@ -1,0 +1,14 @@
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\bin\Debug\net6.0\week10b.exe
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\bin\Debug\net6.0\week10b.deps.json
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\bin\Debug\net6.0\week10b.runtimeconfig.json
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\bin\Debug\net6.0\week10b.dll
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\bin\Debug\net6.0\week10b.pdb
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.AssemblyInfoInputs.cache
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.AssemblyInfo.cs
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.csproj.CoreCompileInputs.cache
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.dll
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\refint\week10b.dll
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.pdb
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\week10b.genruntimeconfig.cache
+C:\Users\boyda\OneDrive\Desktop\ITP 136\week10\week10b\week10b\obj\Debug\net6.0\ref\week10b.dll
